@@ -181,6 +181,10 @@ p.lead {
     h2 {
         font-size: 30px;
     }
+    
+    .icon{
+        width: 50%;
+    }
 }
 
 
